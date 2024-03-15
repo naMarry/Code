@@ -1,0 +1,189 @@
+
+.navbar-brand {
+    color: white;
+    margin-top: 5px; 
+}
+
+
+ .nav-link {
+    color: white;
+}
+
+.btn {
+    background: transparent;
+    border: none;
+    margin-top: 2px;
+}
+
+.my-login {
+    padding-left: 550px;
+}
+
+.s-logo {
+    color: white;
+    width: 15px;
+    height: 15px;
+    padding-right: 15px;
+}
+
+.s-logo:hover {
+    color:rgb(147, 138, 138);
+}
+
+.carousel-item {
+    height: 50vh;
+    min-height: 200px;
+    background: no-repeat center center scroll;
+}
+
+.search-btn{
+    background-color: antiquewhite;
+    position:absolute;
+    width: 100px;
+    height: 50px;
+    
+}
+.search-btn:hover {
+    background-color: whitesmoke;
+}
+
+.main {
+    width: 100%;
+    height: 200px; 
+}
+
+.boder-img {
+    margin-top: 20px;
+    width: 800px;
+    height: 300px;
+    margin-left: 350px;
+}
+
+.img-pro {
+    
+    width: 400px;
+    height: 300px;
+    margin-left: 300px;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 10px 26px 0 rgba(35, 17, 202, 0.19);
+}
+
+.text-pro {
+    
+    margin-right: 300px;
+    margin-top: 10px;
+    width: 400px;
+    height: 280px;
+    background-color: rgba(21, 50, 66, 1);
+    color: white;
+}
+
+.text-pro {
+    text-align: center;
+    padding-top: 125px;
+}
+
+.bg {
+    width: 1375px;
+    height: 300px;
+}
+
+.text-p ,h3{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.text-bg-secondary {
+    color: black !important;
+}
+
+.card-header {
+    color: white;
+}
+
+.my-card h5, p {
+    padding: 5px 15px;
+}
+
+.mb-3 {
+    margin-bottom: 2rem !important;
+    margin-top: 2rem !important;
+}
+
+.card {
+    --bs-card-cap-bg: black; 
+    --bs-card-border-width: var(--bs-width);
+}
+
+.text-bg-secondary {
+    background-color: rgb(222, 238, 245) !important;
+}
+
+.card .col-3 {
+    width: 5% !important;
+}
+
+.my-container {
+    margin-left: 30px;
+    width: 100%;
+}
+
+.container .row{
+    padding-left: 20px;
+}
+
+.btn-light {
+    background-color: black;
+    color: white;
+    margin-bottom: 55px;
+    margin-top: 30px;
+    margin-left: 1000px; 
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 7px 15px;
+}
+
+.btn-light:hover {
+    color: black;
+    background-color: white; 
+    transition: 0.3s;
+    border: 2px solid black;
+}
+
+hr {
+    color: rgb(144, 180, 180);
+    width: 100%;
+}
+
+h2 {
+   text-align: center; 
+   padding: 80px 80px;
+}
+
+/* add */
+.carousel-caption h5{
+    font-size: 50px; 
+    letter-spacing: 2px;
+}
+
+.my-btn{
+    margin-bottom: 30px; 
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px; 
+    width: 300px;
+    border-radius: 30px;
+    border: none;
+    background-color: white;
+}
+
+.btn-dark:hover {
+    background-color: black;
+}
+
+footer {
+    width: 100%;
+    height: 40%;
+    padding: 40px 20px;
+    background-color: black;
+}

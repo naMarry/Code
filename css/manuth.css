@@ -1,0 +1,128 @@
+.navbar-brand {
+    color: white;
+    margin-top: 5px; 
+}
+
+ .nav-link {
+    color: white;
+}
+
+.btn {
+    background: transparent;
+    border: none;
+    margin-top: 2px;
+}
+
+.my-login {
+    padding-left: 550px;
+}
+
+.s-logo {
+    color: white;
+    width: 15px;
+    height: 15px;
+    padding-right: 15px;
+}
+
+.s-logo:hover {
+    color:rgb(147, 138, 138);
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+}
+
+.carousel-caption h5{
+    font-size: 50px; 
+    letter-spacing: 2px;
+}
+
+.my-btn{
+    margin-bottom: 170px;
+    padding: 10px 30px;
+    border-radius: 30px;
+    border: none;
+    text-align: center;
+    background-color: rgb(125, 139, 146);
+    color: white;
+}
+
+.my-btn:hover {
+    background-color: rgb(86, 113, 126);
+    color: white;
+}
+
+main {
+    background-color: rgb(252, 252, 252);
+    color: rgb(0, 0, 0);
+    padding-top: 40px;
+}
+
+
+/* the problem */
+.whole-courses {
+    text-align: center;
+}  
+
+.course-deco {
+    color: rgb(255, 255, 255);
+    margin: 20px;
+}
+
+.course-deco:hover {
+    color: rgb(220, 231, 241);
+}
+
+.logo {
+    background-color: white;
+    color: black;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.my-mid-carousel {
+    display: inline-block;
+    background-color: rgb(200, 202, 205);
+    color: black;
+    margin-left: 20px;
+    padding: 10px;
+    width: 250px;
+    height: 30vh;
+}
+
+.my-mid-carousel:hover {
+    background-color: rgb(220, 231, 241);
+}
+
+footer {
+    width: 100%;
+    height: 40%;
+    padding: 40px 20px;
+    background-color: black;
+}
+.courses-title {
+  margin-top: 50px;
+}
+
+.logo {
+    background-color: white;
+    color: black;
+    padding-top: 40px;
+    text-align: center;
+} 
+.title{
+    text-align: center;
+   margin-top: 30px;
+}
+.image{
+    height: 230px;
+    margin-left: 150px;
+}
+.containeer{
+    width: 345px;
+    height: 230px;
+    text-align: center;
+    margin: auto;
+}
